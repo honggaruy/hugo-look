@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '홍가뤼의 개인위키'
+theme = 'hugo-theme-relearn'
